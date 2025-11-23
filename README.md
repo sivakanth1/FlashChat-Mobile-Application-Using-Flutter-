@@ -592,8 +592,13 @@ For support, please:
 - [cloud_firestore](https://pub.dev/packages/cloud_firestore)
 - [animated_text_kit](https://pub.dev/packages/animated_text_kit)
 ---
+
 <div align="center">
-**⚡ FlashChat - Connecting people in real-time ⚡**
+
+  **⚡ FlashChat - Connecting people in real-time ⚡**
+
 Made with ❤️ using Flutter
+
 [Report Bug](https://github.com/yourusername/FlashChat/issues) • [Request Feature](https://github.com/yourusername/FlashChat/issues)
+
 </div>
